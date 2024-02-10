@@ -4,7 +4,7 @@ A React Application used for Object Detection from image and webcam.
 Used Media-pipe to integrate API into this application.
 
 
-<img align="center" alt="" src="./src/Img/object-detection.png">
+<img align="center" alt="" src="./Img/object-detection.png">
 
 # Getting Started with Create React App
 
